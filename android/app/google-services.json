@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "585152458828",
+    "firebase_url": "https://find-my-items-88369-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "find-my-items-88369",
+    "storage_bucket": "find-my-items-88369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585152458828:android:6a4566a7f7445031ed44e9",
+        "android_client_info": {
+          "package_name": "com.example.cat_nutrition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585152458828-5i4oshigbsmpa0pk3nmin0s9fuvjsbsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cat_nutrition",
+            "certificate_hash": "e9c48210a9becc636c7ad25273f17ffa8326b26b"
+          }
+        },
+        {
+          "client_id": "585152458828-v2lk491ohs75mqj2u62libftgaelv716.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5TmMIKrDVCwN-JM3ZfLxSG43PZjlyXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585152458828-v2lk491ohs75mqj2u62libftgaelv716.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585152458828-qtfdgk8n91drudaet7bce44vk8j5d187.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.translateQuize"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585152458828:android:299ce79c37ef48d8ed44e9",
+        "android_client_info": {
+          "package_name": "com.example.findmyitems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585152458828-46eig7rua1d6nbkttct96rt2epgvd8kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findmyitems",
+            "certificate_hash": "1a91de372ce29694d271e0749d339d9121f13af2"
+          }
+        },
+        {
+          "client_id": "585152458828-okkabouvl7nuavb0d7fege461gnpgh3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findmyitems",
+            "certificate_hash": "e286378ea6fa3ad008c40f5193daa18b11dbbc6d"
+          }
+        },
+        {
+          "client_id": "585152458828-v2lk491ohs75mqj2u62libftgaelv716.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5TmMIKrDVCwN-JM3ZfLxSG43PZjlyXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585152458828-v2lk491ohs75mqj2u62libftgaelv716.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585152458828-qtfdgk8n91drudaet7bce44vk8j5d187.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.translateQuize"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
